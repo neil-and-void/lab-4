@@ -1,0 +1,14 @@
+question 1: https://github.com/neilZon/lab-4
+
+question 2: "The install worked successfully! Congratulations!" page with a rocketship
+
+question 3: 404 page not found and "Hello, world. You're at the polls index."
+
+question 4: applies changes from our db schema to our db
+
+question 5: able to see models. Create models in polls/models.py to make it show up there
+question 6: you go to polls, results and views of poll id 38. Change int:question_id to str:question_id
+question 7: if you change a URL, you have to go to each template and change any reference to the changed URL
+question 8:
+question 9:
+question 10:
