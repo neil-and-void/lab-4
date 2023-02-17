@@ -10,5 +10,3 @@ question 5: able to see models. Create models in polls/models.py and register it
 question 6: you go to polls, results and views of poll id 38. Change int:question_id to str:question_id
 question 7: if you change a URL, you have to go to each template and change any reference to the changed URL
 question 8: uses less code since the "hard way" is redundant
-question 9:
-question 10:
