@@ -1,0 +1,3 @@
+q1: you can deploy through cli or through the dashboard through source control integration
+q2: Similar to Dockerfile where it tells heroku what to run to run the app among other things
+q3:
